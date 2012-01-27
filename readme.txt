@@ -3,13 +3,13 @@ Contributors: LukaszWiecek
 Tags: seo, dofollow, nofollow, commets, link, links, comment
 Requires at least: 3.0.0
 Tested up to: 3.3.1
-Stable tag: 1.0.0
+Stable tag: 1.0.1
 
-The "Smart DoFollow" plugins lets you automatically give DoFollow links to authors of comments that are longer that a given number of chars.
+The "Smart DoFollow" plugins lets you automatically give DoFollow links to authors of comments that are longer than a given number of chars.
 
 == Description ==
 
-The "Smart DoFollow" plugins lets you automatically give DoFollow links to authors of comments that are longer that a given number of chars. You can reward the authors of long comments with strong links that have SEO-value.
+The "Smart DoFollow" plugins lets you automatically give DoFollow links to authors of comments that are longer than a given number of chars. You can reward the authors of long comments with strong links that have SEO-value.
 
 = My other plugins =
 
@@ -29,4 +29,4 @@ Install, and activate plugin :)
 
 == Screenshots ==
 
-1. Example
+1. Settings
