@@ -3,7 +3,7 @@ Contributors: LukaszWiecek
 Tags: seo, dofollow, nofollow, commets, link, links, comment
 Requires at least: 3.0.0
 Tested up to: 3.3.1
-Stable tag: 1.0.1
+Stable tag: 1.0.2
 
 The "Smart DoFollow" plugins lets you automatically give DoFollow links to authors of comments that are longer than a given number of chars.
 
@@ -14,7 +14,7 @@ The "Smart DoFollow" plugins lets you automatically give DoFollow links to autho
 = My other plugins =
 
 * [Social Slider](http://wordpress.org/extend/plugins/social-slider/ "Social Slider")
-* [Social Fit](http://wordpress.org/extend/plugins/social-fit/ "Social Fit")
+* [Social Fit](http://wordpress.org/extend/plugins/socialfit/ "Social Fit")
 * [Commentify](http://commentify.info/ "Commentify")
 * [Thank You](http://wordpress.org/extend/plugins/thank-you/ "Thank You")
 

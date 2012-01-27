@@ -3,7 +3,7 @@
 Plugin Name: Smart DoFollow
 Plugin URI: http://mydiy.pl/
 Description: Smart DoFollow
-Version: 1.0.1
+Version: 1.0.2
 Author: Łukasz Więcek
 Author URI: http://mydiy.pl/
 */
